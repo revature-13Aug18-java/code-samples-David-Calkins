@@ -9,7 +9,8 @@ based on proximity and preference.
 
 
 My task primarily focused on researching and implementing new technologies into 
-the matching microservice. 
+the matching microservice. I also worked on adding fallback implementation by 
+utilizing Hystrix with Feign client. 
 
 
 Environment / Technologies

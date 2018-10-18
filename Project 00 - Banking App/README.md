@@ -1,4 +1,4 @@
-# Project 00: Banking System
+# Project 0: Banking System
 
 This is a relatively simple application that allows a user to access a mock 
 bank account stored on a database. Through a CLI, a user can create accounts, 
