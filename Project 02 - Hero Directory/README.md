@@ -33,3 +33,6 @@ We used the following technologies in our stack:
 * DevOps
 * Angular
 * Hibernate
+
+Link to Main Repository:
+https://github.com/MaxEffect13/project2
