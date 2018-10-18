@@ -28,7 +28,8 @@ first day to help us process information from the API. These are stored in the
 PullFromApi folder, as they were in a separate folder from the main 
 project. These were used to populate our database with hero information as we 
 had a limit to our number of uses of the API we used and no good way of searching 
-the API for specific heroes. 
+the API for specific heroes. Instead we implemented searching and other functionality 
+that would require many repeated requests on our own copy of the API information. 
 
 We used the following technologies in our stack: 
 * HTML
