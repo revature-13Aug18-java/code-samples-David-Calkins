@@ -23,6 +23,13 @@ using HttpServlets, but we couldn't get the session management to work with the
 client side requests. We ended up using client side validation on the last days 
 before code freeze, which involved some refactoring of the Controllers. 
 
+As a side note, I included some basic programs I quickly threw together in the 
+first day to help us process information from the API. These are stored in the
+PullFromApi folder, as they were in a separate folder from the main 
+project. These were used to populate our database with hero information as we 
+had a limit to our number of uses of the API we used and no good way of searching 
+the API for specific heroes. 
+
 We used the following technologies in our stack: 
 * HTML
 * CSS
