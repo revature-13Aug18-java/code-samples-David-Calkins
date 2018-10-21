@@ -1,4 +1,4 @@
-#Code Sample Repository
+# Code Sample Repository
 
 The following repository contains several projects and parts of projects that 
 I have worked on during my time at Revature. Below are very brief summaries of 
